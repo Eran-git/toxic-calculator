@@ -1,2 +1,2 @@
 # Toxic-Calculator
-1st Calculator i made using JavaFX
+GUI Calculator made in javafx
